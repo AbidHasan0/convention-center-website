@@ -1,9 +1,12 @@
+.body{
+   font-family: 'Poppins', sans-serif;
+}
 .text-dark-color{
    color: antiquewhite;
 
 }
 .navber-primary{
-   color: lime;
+   color:darkorchid;
 }
 .fas{
    color: magenta;
